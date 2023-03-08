@@ -12,7 +12,8 @@ This website is an About Me page including a few facts on me.
 
 ### Lighthouse Accessibility Report Score
 
-* Provide a screenshot of your score after running a Lighthouse Accessibility report.
+<img src="/img/lighthouse.png"
+     alt="LightHouse Score">
 
 ### Reflections and Comments
 
