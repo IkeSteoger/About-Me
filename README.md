@@ -2,7 +2,7 @@
 
 ## About Me
 
-This website is an About Me page including a few facts on me. 
+This website is an About Me page including a few facts on me.
 
 ### Author: Ike Steoger
 
@@ -17,4 +17,4 @@ This website is an About Me page including a few facts on me.
 
 ### Reflections and Comments
 
-* 
+*
