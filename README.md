@@ -4,7 +4,9 @@
 
 This website is an About Me page including a few facts on me.
 
-### Author: Ike Steoger
+### Author: Ike Steoger, Navigator
+
+Driver: Donna A. Ada
 
 ### Links and Resources
 
