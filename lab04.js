@@ -123,13 +123,13 @@ function multipleChoiceGame(){
     }
 }
 
-getUser();
-checkAnswers();
-guessingGame();
-multipleChoiceGame();
+// getUser();
+// checkAnswers();
+// guessingGame();
+// multipleChoiceGame();
 
-alert("Thanks for answering my questions, " + user + "! You got " + correctanswers + " questions correct and " + incorrectanswers + " questions incorrect! Nice work. I hope you enjoy your visit!")
-console.log("They got " + correctanswers + " answers correct & they got " + incorrectanswers + " answers incorrect.")
+// alert("Thanks for answering my questions, " + user + "! You got " + correctanswers + " questions correct and " + incorrectanswers + " questions incorrect! Nice work. I hope you enjoy your visit!")
+// console.log("They got " + correctanswers + " answers correct & they got " + incorrectanswers + " answers incorrect.")
 
 
 
