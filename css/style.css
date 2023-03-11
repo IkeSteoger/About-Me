@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(243, 97, 92);
+    background-color: rgb(211, 144, 140);
     margin: 10px;
 }
 
@@ -12,12 +12,11 @@ h1{
 }
 
 h2{
-    padding: 5px;
+    padding: 20px;
     color: darkblue;
     font-weight: bold;
-    font-size: 30px;
-    float: left;
-    padding: 20px;
+    
+    text-align: center;
 }
 
 h3{
@@ -28,7 +27,7 @@ h3{
 }
 
 #headeraboutme{
-    float: right;
+    font-size: 185%;
 }
 
 img {
@@ -42,7 +41,7 @@ img {
 
 #ikeImg{
     float: right;
-    margin: 5px
+    margin: 50px
 }
 
 ul{
@@ -63,19 +62,19 @@ p{
 }
 
 #infoaboutme{
-    float: left;
-    position: relative;
     width: 70%;
     margin: 10px;
+    padding: 5px;
 }
 
 .mainbody{
     display: inline-block;
+    width: 60%;
 }
 
 #top10{
     float: right;
-    width: auto;
+    width: 60%;
     right: 50px;
 }
 
