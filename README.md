@@ -14,6 +14,10 @@ Driver: Donna A. Ada
 
 ### Lighthouse Accessibility Report Score
 
+Third Score
+<img src="/img/3rdlighthouse.png"
+     alt="3rd LightHouse Score">
+
 Second Score
 <img src="/img/2ndlighthouse.png"
      alt="2nd LightHouse Score">

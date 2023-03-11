@@ -2,11 +2,8 @@
 
 let correctanswers = 0;
 let incorrectanswers = 0;
-
-// declare global scope variable user
 let user = '';
 
-// Gets name from prompt
 function getUser(){
 
     while (user === '' || user === null){
@@ -19,10 +16,6 @@ function getUser(){
     return user;
 }
 
-// Calls the get user function
-// console.log(user);
-
-// store questions in an array
 let questionsList = [
     '5 quick questions! Is Ike originally from Washington?',
     'Is Ike\'s full name Michael?',
@@ -31,7 +24,6 @@ let questionsList = [
     'Does Ike like to ride bicycles?'
 ];
 
-// store cooresponding answer in array 
 let answers = [
     'no', 
     'yes',
@@ -40,10 +32,6 @@ let answers = [
     'yes'
 ];
 
-// // console.log(questionsList);
-// // console.log(answers);
-
-// creates function to check if the user guess matches the answer
 function quizUser(question, answer){
 
     let response = prompt(question);
